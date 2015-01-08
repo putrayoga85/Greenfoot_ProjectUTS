@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dunia()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dunia.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment10.params=input
+comment10.target=void\ PlayMusic(boolean)
+comment2.params=
+comment2.target=void\ BomMuncul()
+comment3.params=
+comment3.target=Counter\ getCounter()
+comment4.params=
+comment4.target=Nyawaku\ getNyawaku()
+comment5.params=
+comment5.target=void\ prepare_ular()
+comment6.params=
+comment6.target=void\ prepare_lobster()
+comment7.params=
+comment7.target=void\ prepare_bom()
+comment8.params=
+comment8.target=void\ Bom()
+comment9.params=input
+comment9.target=void\ StopMusic(boolean)
+numComments=11
